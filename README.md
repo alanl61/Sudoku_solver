@@ -15,4 +15,4 @@ An example input to fill a row with number would be `001039` if
 - The third position contains a 1
 - The fifth position contains a 3
 - The sixth position contains a 9
-- All other position is blank
+- All other positions are blank
