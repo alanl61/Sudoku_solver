@@ -18,6 +18,6 @@ An example input to fill a row with number would be `001039` if
 - All other positions are blank
 
 ## Demo
-<img src="sodoku_input" width=800>
+<img src="sudoku_input.png" width=800>
 
-<img src="solved_sodoku" width=800>
+<img src="solved_sudoku.png" width=800>
