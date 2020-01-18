@@ -16,3 +16,8 @@ An example input to fill a row with number would be `001039` if
 - The fifth position contains a 3
 - The sixth position contains a 9
 - All other positions are blank
+
+## Demo
+<img src="sodoku_input" width=800>
+
+<img src="solved_sodoku" width=800>
